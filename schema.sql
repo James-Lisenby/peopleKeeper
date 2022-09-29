@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS employeeKeeper_db;
+DROP DATABASE IF EXISTS castleKeeper_db;
 
-CREATE DATABASE employeeKeeper_db;
+CREATE DATABASE castleKeeper_db;
 
-USE DATABASE employeeKeeper_db;
+USE DATABASE castleKeeper_db;
 
 CREATE TABLE
     department (
